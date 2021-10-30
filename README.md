@@ -35,4 +35,4 @@ Changes in version 0.3.5.17 - 2021-10-26
       function has been a no-op since Libevent 2.0.4-alpha, it is safe
       for us to just stop calling it. Fixes bug 40371; bugfix
       on 0.2.1.7-alpha.
-      ```
+ ```
